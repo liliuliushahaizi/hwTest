@@ -2,3 +2,14 @@
 develop branch modify
 
 master branch modify
+<<<<<<< HEAD
+=======
+
+<<<<<<< HEAD
+git master merge
+
+=======
+
+master modify for merge
+>>>>>>> 288fd68... develop modify
+>>>>>>> git rebase -i HEAD~5
