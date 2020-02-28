@@ -1,4 +1,8 @@
 this modify is for merge test
 
+<<<<<<< HEAD
+=======
 this modify is for rebase
 
+this modify is for rebase2
+>>>>>>> git rebase -i HEAD~5
